@@ -1,0 +1,5 @@
+C:\Automationcourse\Csharpsep2024\AutomationSolutions\SeleniumConcept1\obj\Debug\net8.0\SeleniumConcept1.csproj.AssemblyReference.cache
+C:\Automationcourse\Csharpsep2024\AutomationSolutions\SeleniumConcept1\obj\Debug\net8.0\SeleniumConcept1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Automationcourse\Csharpsep2024\AutomationSolutions\SeleniumConcept1\obj\Debug\net8.0\SeleniumConcept1.AssemblyInfoInputs.cache
+C:\Automationcourse\Csharpsep2024\AutomationSolutions\SeleniumConcept1\obj\Debug\net8.0\SeleniumConcept1.AssemblyInfo.cs
+C:\Automationcourse\Csharpsep2024\AutomationSolutions\SeleniumConcept1\obj\Debug\net8.0\SeleniumConcept1.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Automationcourse\Csharpsep2024\AutomationSolutions\Csharpconcept1\bin\Debug\net8.0\Csharpconcept1.exe
+C:\Automationcourse\Csharpsep2024\AutomationSolutions\Csharpconcept1\bin\Debug\net8.0\Csharpconcept1.deps.json
+C:\Automationcourse\Csharpsep2024\AutomationSolutions\Csharpconcept1\bin\Debug\net8.0\Csharpconcept1.runtimeconfig.json
+C:\Automationcourse\Csharpsep2024\AutomationSolutions\Csharpconcept1\bin\Debug\net8.0\Csharpconcept1.dll
+C:\Automationcourse\Csharpsep2024\AutomationSolutions\Csharpconcept1\bin\Debug\net8.0\Csharpconcept1.pdb
+C:\Automationcourse\Csharpsep2024\AutomationSolutions\Csharpconcept1\obj\Debug\net8.0\Csharpconcept1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Automationcourse\Csharpsep2024\AutomationSolutions\Csharpconcept1\obj\Debug\net8.0\Csharpconcept1.AssemblyInfoInputs.cache
+C:\Automationcourse\Csharpsep2024\AutomationSolutions\Csharpconcept1\obj\Debug\net8.0\Csharpconcept1.AssemblyInfo.cs
+C:\Automationcourse\Csharpsep2024\AutomationSolutions\Csharpconcept1\obj\Debug\net8.0\Csharpconcept1.csproj.CoreCompileInputs.cache
+C:\Automationcourse\Csharpsep2024\AutomationSolutions\Csharpconcept1\obj\Debug\net8.0\Csharpconcept1.dll
+C:\Automationcourse\Csharpsep2024\AutomationSolutions\Csharpconcept1\obj\Debug\net8.0\refint\Csharpconcept1.dll
+C:\Automationcourse\Csharpsep2024\AutomationSolutions\Csharpconcept1\obj\Debug\net8.0\Csharpconcept1.pdb
+C:\Automationcourse\Csharpsep2024\AutomationSolutions\Csharpconcept1\obj\Debug\net8.0\Csharpconcept1.genruntimeconfig.cache
+C:\Automationcourse\Csharpsep2024\AutomationSolutions\Csharpconcept1\obj\Debug\net8.0\ref\Csharpconcept1.dll

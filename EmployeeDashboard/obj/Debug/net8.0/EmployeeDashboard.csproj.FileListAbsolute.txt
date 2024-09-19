@@ -1,0 +1,4 @@
+C:\Automationcourse\Csharpsep2024\AutomationSolutions\EmployeeDashboard\obj\Debug\net8.0\EmployeeDashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Automationcourse\Csharpsep2024\AutomationSolutions\EmployeeDashboard\obj\Debug\net8.0\EmployeeDashboard.AssemblyInfoInputs.cache
+C:\Automationcourse\Csharpsep2024\AutomationSolutions\EmployeeDashboard\obj\Debug\net8.0\EmployeeDashboard.AssemblyInfo.cs
+C:\Automationcourse\Csharpsep2024\AutomationSolutions\EmployeeDashboard\obj\Debug\net8.0\EmployeeDashboard.csproj.CoreCompileInputs.cache
