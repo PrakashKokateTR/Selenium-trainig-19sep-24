@@ -2,3 +2,14 @@ C:\Automationcourse\Csharpsep2024\AutomationSolutions\EmployeeDashboard\obj\Debu
 C:\Automationcourse\Csharpsep2024\AutomationSolutions\EmployeeDashboard\obj\Debug\net8.0\EmployeeDashboard.AssemblyInfoInputs.cache
 C:\Automationcourse\Csharpsep2024\AutomationSolutions\EmployeeDashboard\obj\Debug\net8.0\EmployeeDashboard.AssemblyInfo.cs
 C:\Automationcourse\Csharpsep2024\AutomationSolutions\EmployeeDashboard\obj\Debug\net8.0\EmployeeDashboard.csproj.CoreCompileInputs.cache
+C:\Automationcourse\Csharpsep2024\AutomationSolutions\EmployeeDashboard\obj\Debug\net8.0\EmployeeDashboard.sourcelink.json
+C:\Automationcourse\Csharpsep2024\AutomationSolutions\EmployeeDashboard\bin\Debug\net8.0\EmployeeDashboard.exe
+C:\Automationcourse\Csharpsep2024\AutomationSolutions\EmployeeDashboard\bin\Debug\net8.0\EmployeeDashboard.deps.json
+C:\Automationcourse\Csharpsep2024\AutomationSolutions\EmployeeDashboard\bin\Debug\net8.0\EmployeeDashboard.runtimeconfig.json
+C:\Automationcourse\Csharpsep2024\AutomationSolutions\EmployeeDashboard\bin\Debug\net8.0\EmployeeDashboard.dll
+C:\Automationcourse\Csharpsep2024\AutomationSolutions\EmployeeDashboard\bin\Debug\net8.0\EmployeeDashboard.pdb
+C:\Automationcourse\Csharpsep2024\AutomationSolutions\EmployeeDashboard\obj\Debug\net8.0\EmployeeDashboard.dll
+C:\Automationcourse\Csharpsep2024\AutomationSolutions\EmployeeDashboard\obj\Debug\net8.0\refint\EmployeeDashboard.dll
+C:\Automationcourse\Csharpsep2024\AutomationSolutions\EmployeeDashboard\obj\Debug\net8.0\EmployeeDashboard.pdb
+C:\Automationcourse\Csharpsep2024\AutomationSolutions\EmployeeDashboard\obj\Debug\net8.0\EmployeeDashboard.genruntimeconfig.cache
+C:\Automationcourse\Csharpsep2024\AutomationSolutions\EmployeeDashboard\obj\Debug\net8.0\ref\EmployeeDashboard.dll

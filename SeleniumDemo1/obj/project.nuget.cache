@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2L1GKtBRK78=",
+  "dgSpecHash": "qTZigi9yxR8=",
   "success": true,
-  "projectFilePath": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\SeleniumDemo1\\SeleniumDemo1.csproj",
+  "projectFilePath": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\SeleniumDemo1\\SeleniumProject2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\6124621\\.nuget\\packages\\selenium.support\\4.24.0\\selenium.support.4.24.0.nupkg.sha512",
     "C:\\Users\\6124621\\.nuget\\packages\\selenium.webdriver\\4.24.0\\selenium.webdriver.4.24.0.nupkg.sha512"

@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeDashboard", "Employ
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumConcept1", "SeleniumConcept1\SeleniumConcept1.csproj", "{2468479B-D80D-4417-A6A5-D1F0440E3C54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumDemo1", "SeleniumDemo1\SeleniumDemo1.csproj", "{4F55C10E-E6FA-43AF-A0A6-F8D978103A2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumProject2", "SeleniumDemo1\SeleniumProject2.csproj", "{4F55C10E-E6FA-43AF-A0A6-F8D978103A2B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

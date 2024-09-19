@@ -11,6 +11,6 @@ namespace SeleniumConcept1
     class selenium1
     {
         IWebDriver driver = new ChromeDriver();
-        obj.URL=
+        
     }
 }

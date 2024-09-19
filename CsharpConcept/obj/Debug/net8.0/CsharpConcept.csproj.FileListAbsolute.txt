@@ -12,3 +12,4 @@ C:\Automationcourse\Csharpsep2024\AutomationSolutions\CsharpConcept\obj\Debug\ne
 C:\Automationcourse\Csharpsep2024\AutomationSolutions\CsharpConcept\obj\Debug\net8.0\CsharpConcept.pdb
 C:\Automationcourse\Csharpsep2024\AutomationSolutions\CsharpConcept\obj\Debug\net8.0\CsharpConcept.genruntimeconfig.cache
 C:\Automationcourse\Csharpsep2024\AutomationSolutions\CsharpConcept\obj\Debug\net8.0\ref\CsharpConcept.dll
+C:\Automationcourse\Csharpsep2024\AutomationSolutions\CsharpConcept\obj\Debug\net8.0\CsharpConcept.sourcelink.json

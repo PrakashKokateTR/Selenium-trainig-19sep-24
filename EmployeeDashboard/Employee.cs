@@ -12,7 +12,7 @@ namespace EmployeeDashboard
         private int EmpID;
         public string empName;
         public double empsalary;
-       private string empPerformance;
+        private string empPerformance;
         public static string companyName;
 
         public int EmpId
@@ -29,7 +29,7 @@ namespace EmployeeDashboard
                 }
                 else
                 {
-                    console.writeline("currently employee id=0.Please provide value more than 100");
+                    Console.WriteLine("currently employee id=0.Please provide value more than 100");
                 }
             }
         }
@@ -40,13 +40,11 @@ namespace EmployeeDashboard
             {
                 return EmpPerformance;
             }
-            set{
-                if (EmpPerformance= "A")
+            set
             {
-                    EmpPerformance = value;
-                }
-           
-               
+
+
+            }
         }
 
         public void DisplayEmployeeDetails()
@@ -55,11 +53,11 @@ namespace EmployeeDashboard
             Console.WriteLine("Employee Name:" + empName);
             Console.WriteLine("Employee Salary:" + empsalary);
             Console.WriteLine("Employee Performance:" + empPerformance);
-            Console.WriteLine("Company Name:"+Employee.companyName);
+            Console.WriteLine("Company Name:" + Employee.companyName);
             Console.WriteLine("--------------------------------------");
 
 
-            
+
 
 
         }
@@ -72,7 +70,7 @@ namespace EmployeeDashboard
                 {
                     empsalary = empsalary + 1000;
                 }
-            else if (empPerformance.Equals("B"))
+                else if (empPerformance.Equals("B"))
 
                 {
                     empsalary = empsalary + 500;
@@ -82,8 +80,11 @@ namespace EmployeeDashboard
                 {
                     empsalary = empsalary + 100;
                 }
-            
 
+            }
+        }
+    }
+}
 
         
 

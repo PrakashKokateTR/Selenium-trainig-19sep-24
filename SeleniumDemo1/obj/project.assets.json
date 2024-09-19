@@ -86,9 +86,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\SeleniumDemo1\\SeleniumDemo1.csproj",
-      "projectName": "SeleniumDemo1",
-      "projectPath": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\SeleniumDemo1\\SeleniumDemo1.csproj",
+      "projectUniqueName": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\SeleniumDemo1\\SeleniumProject2.csproj",
+      "projectName": "SeleniumProject2",
+      "projectPath": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\SeleniumDemo1\\SeleniumProject2.csproj",
       "packagesPath": "C:\\Users\\6124621\\.nuget\\packages\\",
       "outputPath": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\SeleniumDemo1\\obj\\",
       "projectStyle": "PackageReference",
