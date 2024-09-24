@@ -3,56 +3,32 @@
   "WorkspaceRootPath": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F55C10E-E6FA-43AF-A0A6-F8D978103A2B}|SeleniumDemo1\\SeleniumDemo1.csproj|c:\\automationcourse\\csharpsep2024\\automationsolutions\\seleniumdemo1\\seleniumdemo1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{4F55C10E-E6FA-43AF-A0A6-F8D978103A2B}|SeleniumDemo1\\SeleniumDemo1.csproj|solutionrelative:seleniumdemo1\\seleniumdemo1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{D48502A4-B711-4DB5-9409-8AECD65D7A20}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|c:\\automationcourse\\csharpsep2024\\automationsolutions\\seleniumconceptunittestproject\\demo6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48502A4-B711-4DB5-9409-8AECD65D7A20}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|solutionrelative:seleniumconceptunittestproject\\demo6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F55C10E-E6FA-43AF-A0A6-F8D978103A2B}|SeleniumDemo1\\SeleniumDemo1.csproj|c:\\automationcourse\\csharpsep2024\\automationsolutions\\seleniumdemo1\\seleniumdemo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F55C10E-E6FA-43AF-A0A6-F8D978103A2B}|SeleniumDemo1\\SeleniumDemo1.csproj|solutionrelative:seleniumdemo1\\seleniumdemo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D48502A4-B711-4DB5-9409-8AECD65D7A20}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|c:\\automationcourse\\csharpsep2024\\automationsolutions\\seleniumconceptunittestproject\\demo4seleniumadavance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48502A4-B711-4DB5-9409-8AECD65D7A20}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|solutionrelative:seleniumconceptunittestproject\\demo4seleniumadavance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F55C10E-E6FA-43AF-A0A6-F8D978103A2B}|SeleniumDemo1\\SeleniumDemo1.csproj|c:\\automationcourse\\csharpsep2024\\automationsolutions\\seleniumdemo1\\seleniumdemo1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{4F55C10E-E6FA-43AF-A0A6-F8D978103A2B}|SeleniumDemo1\\SeleniumDemo1.csproj|solutionrelative:seleniumdemo1\\seleniumdemo1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{D48502A4-B711-4DB5-9409-8AECD65D7A20}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|c:\\automationcourse\\csharpsep2024\\automationsolutions\\seleniumconceptunittestproject\\seleniumconceptunittestproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D48502A4-B711-4DB5-9409-8AECD65D7A20}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|solutionrelative:seleniumconceptunittestproject\\seleniumconceptunittestproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F55C10E-E6FA-43AF-A0A6-F8D978103A2B}|SeleniumDemo1\\SeleniumDemo1.csproj|c:\\automationcourse\\csharpsep2024\\automationsolutions\\seleniumdemo1\\demo3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F55C10E-E6FA-43AF-A0A6-F8D978103A2B}|SeleniumDemo1\\SeleniumDemo1.csproj|solutionrelative:seleniumdemo1\\demo3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D48502A4-B711-4DB5-9409-8AECD65D7A20}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|c:\\automationcourse\\csharpsep2024\\automationsolutions\\seleniumconceptunittestproject\\demo3framtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48502A4-B711-4DB5-9409-8AECD65D7A20}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|solutionrelative:seleniumconceptunittestproject\\demo3framtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77FF2DD6-A27D-4AD1-BE69-0F9E74AF1454}|EmployeeDashboard\\EmployeeDashboard.csproj|c:\\automationcourse\\csharpsep2024\\automationsolutions\\employeedashboard\\employeerunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77FF2DD6-A27D-4AD1-BE69-0F9E74AF1454}|EmployeeDashboard\\EmployeeDashboard.csproj|solutionrelative:employeedashboard\\employeerunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D48502A4-B711-4DB5-9409-8AECD65D7A20}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|c:\\automationcourse\\csharpsep2024\\automationsolutions\\seleniumconceptunittestproject\\demo1seleniumadvance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48502A4-B711-4DB5-9409-8AECD65D7A20}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|solutionrelative:seleniumconceptunittestproject\\demo1seleniumadvance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77FF2DD6-A27D-4AD1-BE69-0F9E74AF1454}|EmployeeDashboard\\EmployeeDashboard.csproj|c:\\automationcourse\\csharpsep2024\\automationsolutions\\employeedashboard\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77FF2DD6-A27D-4AD1-BE69-0F9E74AF1454}|EmployeeDashboard\\EmployeeDashboard.csproj|solutionrelative:employeedashboard\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D48502A4-B711-4DB5-9409-8AECD65D7A20}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|c:\\automationcourse\\csharpsep2024\\automationsolutions\\seleniumconceptunittestproject\\demo2test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48502A4-B711-4DB5-9409-8AECD65D7A20}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|solutionrelative:seleniumconceptunittestproject\\demo2test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2468479B-D80D-4417-A6A5-D1F0440E3C54}|SeleniumConcept1\\SeleniumConcept1.csproj|c:\\automationcourse\\csharpsep2024\\automationsolutions\\seleniumconcept1\\selenium1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2468479B-D80D-4417-A6A5-D1F0440E3C54}|SeleniumConcept1\\SeleniumConcept1.csproj|solutionrelative:seleniumconcept1\\selenium1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E79E116-1310-4C7B-87BF-9643C5B77533}|CsharpConcept\\CsharpConcept.csproj|c:\\automationcourse\\csharpsep2024\\automationsolutions\\csharpconcept\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E79E116-1310-4C7B-87BF-9643C5B77533}|CsharpConcept\\CsharpConcept.csproj|solutionrelative:csharpconcept\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14187956-5B68-459C-A52D-61AF6451F244}|Csharpconcept1\\Csharpconcept1.csproj|c:\\automationcourse\\csharpsep2024\\automationsolutions\\csharpconcept1\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14187956-5B68-459C-A52D-61AF6451F244}|Csharpconcept1\\Csharpconcept1.csproj|solutionrelative:csharpconcept1\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2468479B-D80D-4417-A6A5-D1F0440E3C54}|SeleniumConcept1\\SeleniumConcept1.csproj|c:\\automationcourse\\csharpsep2024\\automationsolutions\\seleniumconcept1\\seleniumconcept1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2468479B-D80D-4417-A6A5-D1F0440E3C54}|SeleniumConcept1\\SeleniumConcept1.csproj|solutionrelative:seleniumconcept1\\seleniumconcept1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2468479B-D80D-4417-A6A5-D1F0440E3C54}|SeleniumConcept1\\SeleniumConcept1.csproj|c:\\automationcourse\\csharpsep2024\\automationsolutions\\seleniumconcept1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2468479B-D80D-4417-A6A5-D1F0440E3C54}|SeleniumConcept1\\SeleniumConcept1.csproj|solutionrelative:seleniumconcept1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14187956-5B68-459C-A52D-61AF6451F244}|Csharpconcept1\\Csharpconcept1.csproj|c:\\automationcourse\\csharpsep2024\\automationsolutions\\csharpconcept1\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14187956-5B68-459C-A52D-61AF6451F244}|Csharpconcept1\\Csharpconcept1.csproj|solutionrelative:csharpconcept1\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E79E116-1310-4C7B-87BF-9643C5B77533}|CsharpConcept\\CsharpConcept.csproj|c:\\automationcourse\\csharpsep2024\\automationsolutions\\csharpconcept\\csharpconcept.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2E79E116-1310-4C7B-87BF-9643C5B77533}|CsharpConcept\\CsharpConcept.csproj|solutionrelative:csharpconcept\\csharpconcept.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{D48502A4-B711-4DB5-9409-8AECD65D7A20}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|c:\\automationcourse\\csharpsep2024\\automationsolutions\\seleniumconceptunittestproject\\seleniumconceptunittestproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D48502A4-B711-4DB5-9409-8AECD65D7A20}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|solutionrelative:seleniumconceptunittestproject\\seleniumconceptunittestproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -67,172 +43,89 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SeleniumDemo1",
-              "DocumentMoniker": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\SeleniumDemo1\\SeleniumDemo1.csproj",
-              "RelativeDocumentMoniker": "SeleniumDemo1\\SeleniumDemo1.csproj",
-              "ToolTip": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\SeleniumDemo1\\SeleniumDemo1.csproj",
-              "RelativeToolTip": "SeleniumDemo1\\SeleniumDemo1.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-19T06:48:03.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "demo3.cs",
-              "DocumentMoniker": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\SeleniumDemo1\\demo3.cs",
-              "RelativeDocumentMoniker": "SeleniumDemo1\\demo3.cs",
-              "ToolTip": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\SeleniumDemo1\\demo3.cs",
-              "RelativeToolTip": "SeleniumDemo1\\demo3.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Title": "Demo6.cs",
+              "DocumentMoniker": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\SeleniumConceptUnitTestProject\\Demo6.cs",
+              "RelativeDocumentMoniker": "SeleniumConceptUnitTestProject\\Demo6.cs",
+              "ToolTip": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\SeleniumConceptUnitTestProject\\Demo6.cs",
+              "RelativeToolTip": "SeleniumConceptUnitTestProject\\Demo6.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T05:18:21.004Z",
+              "WhenOpened": "2024-09-24T05:05:06.921Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Seleniumdemo1.cs",
-              "DocumentMoniker": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\SeleniumDemo1\\Seleniumdemo1.cs",
-              "RelativeDocumentMoniker": "SeleniumDemo1\\Seleniumdemo1.cs",
-              "ToolTip": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\SeleniumDemo1\\Seleniumdemo1.cs",
-              "RelativeToolTip": "SeleniumDemo1\\Seleniumdemo1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Title": "Demo4SeleniumAdavance.cs",
+              "DocumentMoniker": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\SeleniumConceptUnitTestProject\\Demo4SeleniumAdavance.cs",
+              "RelativeDocumentMoniker": "SeleniumConceptUnitTestProject\\Demo4SeleniumAdavance.cs",
+              "ToolTip": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\SeleniumConceptUnitTestProject\\Demo4SeleniumAdavance.cs",
+              "RelativeToolTip": "SeleniumConceptUnitTestProject\\Demo4SeleniumAdavance.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T02:40:58.948Z",
+              "WhenOpened": "2024-09-24T03:23:08.718Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SeleniumDemo1.csproj",
-              "DocumentMoniker": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\SeleniumDemo1\\SeleniumDemo1.csproj",
-              "RelativeDocumentMoniker": "SeleniumDemo1\\SeleniumDemo1.csproj",
-              "ToolTip": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\SeleniumDemo1\\SeleniumDemo1.csproj*",
-              "RelativeToolTip": "SeleniumDemo1\\SeleniumDemo1.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-19T02:40:57.322Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "selenium1.cs",
-              "DocumentMoniker": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\SeleniumConcept1\\selenium1.cs",
-              "RelativeDocumentMoniker": "SeleniumConcept1\\selenium1.cs",
-              "ToolTip": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\SeleniumConcept1\\selenium1.cs",
-              "RelativeToolTip": "SeleniumConcept1\\selenium1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAgwA0AAAAIAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Demo3FramTest.cs",
+              "DocumentMoniker": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\SeleniumConceptUnitTestProject\\Demo3FramTest.cs",
+              "RelativeDocumentMoniker": "SeleniumConceptUnitTestProject\\Demo3FramTest.cs",
+              "ToolTip": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\SeleniumConceptUnitTestProject\\Demo3FramTest.cs",
+              "RelativeToolTip": "SeleniumConceptUnitTestProject\\Demo3FramTest.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T03:49:59.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmployeeRunner.cs",
-              "DocumentMoniker": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\EmployeeDashboard\\EmployeeRunner.cs",
-              "RelativeDocumentMoniker": "EmployeeDashboard\\EmployeeRunner.cs",
-              "ToolTip": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\EmployeeDashboard\\EmployeeRunner.cs",
-              "RelativeToolTip": "EmployeeDashboard\\EmployeeRunner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T04:50:54.623Z",
+              "WhenOpened": "2024-09-20T05:20:22.738Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\EmployeeDashboard\\Employee.cs",
-              "RelativeDocumentMoniker": "EmployeeDashboard\\Employee.cs",
-              "ToolTip": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\EmployeeDashboard\\Employee.cs",
-              "RelativeToolTip": "EmployeeDashboard\\Employee.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAAFYAAAABAAAAAAAAAA==",
+              "Title": "Demo2Test.cs",
+              "DocumentMoniker": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\SeleniumConceptUnitTestProject\\Demo2Test.cs",
+              "RelativeDocumentMoniker": "SeleniumConceptUnitTestProject\\Demo2Test.cs",
+              "ToolTip": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\SeleniumConceptUnitTestProject\\Demo2Test.cs",
+              "RelativeToolTip": "SeleniumConceptUnitTestProject\\Demo2Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T04:46:17.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T04:55:07.836Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program1.cs",
-              "DocumentMoniker": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\CsharpConcept\\Program1.cs",
-              "RelativeDocumentMoniker": "CsharpConcept\\Program1.cs",
-              "ToolTip": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\CsharpConcept\\Program1.cs",
-              "RelativeToolTip": "CsharpConcept\\Program1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T04:46:56.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program1.cs",
-              "DocumentMoniker": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\Csharpconcept1\\Program1.cs",
-              "RelativeDocumentMoniker": "Csharpconcept1\\Program1.cs",
-              "ToolTip": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\Csharpconcept1\\Program1.cs",
-              "RelativeToolTip": "Csharpconcept1\\Program1.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T06:00:46.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\SeleniumConcept1\\Program.cs",
-              "RelativeDocumentMoniker": "SeleniumConcept1\\Program.cs",
-              "ToolTip": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\SeleniumConcept1\\Program.cs",
-              "RelativeToolTip": "SeleniumConcept1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T06:08:26.621Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SeleniumConcept1.csproj",
-              "DocumentMoniker": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\SeleniumConcept1\\SeleniumConcept1.csproj",
-              "RelativeDocumentMoniker": "SeleniumConcept1\\SeleniumConcept1.csproj",
-              "ToolTip": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\SeleniumConcept1\\SeleniumConcept1.csproj",
-              "RelativeToolTip": "SeleniumConcept1\\SeleniumConcept1.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "SeleniumConceptUnitTestProject",
+              "DocumentMoniker": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj",
+              "RelativeDocumentMoniker": "SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj",
+              "ToolTip": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj",
+              "RelativeToolTip": "SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-17T06:08:13.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T03:06:39.153Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Area.cs",
-              "DocumentMoniker": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\Csharpconcept1\\Area.cs",
-              "RelativeDocumentMoniker": "Csharpconcept1\\Area.cs",
-              "ToolTip": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\Csharpconcept1\\Area.cs",
-              "RelativeToolTip": "Csharpconcept1\\Area.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T03:06:47.996Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CsharpConcept.csproj",
-              "DocumentMoniker": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\CsharpConcept\\CsharpConcept.csproj",
-              "RelativeDocumentMoniker": "CsharpConcept\\CsharpConcept.csproj",
-              "ToolTip": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\CsharpConcept\\CsharpConcept.csproj",
-              "RelativeToolTip": "CsharpConcept\\CsharpConcept.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "SeleniumConceptUnitTestProject.csproj",
+              "DocumentMoniker": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj",
+              "RelativeDocumentMoniker": "SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj",
+              "ToolTip": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj",
+              "RelativeToolTip": "SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-16T04:43:26.012Z",
+              "WhenOpened": "2024-09-20T02:55:17.536Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Demo1SeleniumAdvance.cs",
+              "DocumentMoniker": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\SeleniumConceptUnitTestProject\\Demo1SeleniumAdvance.cs",
+              "RelativeDocumentMoniker": "SeleniumConceptUnitTestProject\\Demo1SeleniumAdvance.cs",
+              "ToolTip": "C:\\Automationcourse\\Csharpsep2024\\AutomationSolutions\\SeleniumConceptUnitTestProject\\Demo1SeleniumAdvance.cs",
+              "RelativeToolTip": "SeleniumConceptUnitTestProject\\Demo1SeleniumAdvance.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAACgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:55:51.804Z"
             }
           ]
         }
